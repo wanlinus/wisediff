@@ -2,7 +2,7 @@
 
 if [[ $# -ne 2 ]];then
     echo "将本脚本放到项目顶层"
-    echo "请输入参数！eg: diff.sh master release-1.6.0-cmft "
+    echo "请输入参数！eg: wisediff.sh master release-1.6.0-cmft "
     exit 0;
 fi
 
